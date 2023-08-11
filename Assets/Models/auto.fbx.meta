@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: a2fe929cd0d90e5489d764f5a66648bd
+timeCreated: 1443551132
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Auto Top
+    100004: Auto.005
+    100006: Auto.008
+    100008: Auto.010
+    100010: Cube.002
+    100012: Cube.004
+    100014: Curve.002
+    100016: Cylinder
+    100018: Cylinder.001
+    100020: Cylinder.012
+    100022: Cylinder.014
+    100024: Cylinder.015
+    100026: Cylinder.020
+    100028: Cylinder.021
+    100030: Cylinder.026
+    100032: Cylinder.027
+    100034: Glass
+    100036: Plane.002
+    100038: Plane.007
+    100040: Plane.008
+    100042: Plane.011
+    100044: Sphere
+    100046: Torus.001
+    400000: //RootNode
+    400002: Auto Top
+    400004: Auto.005
+    400006: Auto.008
+    400008: Auto.010
+    400010: Cube.002
+    400012: Cube.004
+    400014: Curve.002
+    400016: Cylinder
+    400018: Cylinder.001
+    400020: Cylinder.012
+    400022: Cylinder.014
+    400024: Cylinder.015
+    400026: Cylinder.020
+    400028: Cylinder.021
+    400030: Cylinder.026
+    400032: Cylinder.027
+    400034: Glass
+    400036: Plane.002
+    400038: Plane.007
+    400040: Plane.008
+    400042: Plane.011
+    400044: Sphere
+    400046: Torus.001
+    2300000: Auto Top
+    2300002: Auto.005
+    2300004: Auto.008
+    2300006: Auto.010
+    2300008: Cube.002
+    2300010: Cube.004
+    2300012: Curve.002
+    2300014: Cylinder
+    2300016: Cylinder.001
+    2300018: Cylinder.012
+    2300020: Cylinder.014
+    2300022: Cylinder.015
+    2300024: Cylinder.020
+    2300026: Cylinder.021
+    2300028: Cylinder.026
+    2300030: Cylinder.027
+    2300032: Glass
+    2300034: Plane.002
+    2300036: Plane.007
+    2300038: Plane.008
+    2300040: Plane.011
+    2300042: Sphere
+    2300044: Torus.001
+    3300000: Auto Top
+    3300002: Auto.005
+    3300004: Auto.008
+    3300006: Auto.010
+    3300008: Cube.002
+    3300010: Cube.004
+    3300012: Curve.002
+    3300014: Cylinder
+    3300016: Cylinder.001
+    3300018: Cylinder.012
+    3300020: Cylinder.014
+    3300022: Cylinder.015
+    3300024: Cylinder.020
+    3300026: Cylinder.021
+    3300028: Cylinder.026
+    3300030: Cylinder.027
+    3300032: Glass
+    3300034: Plane.002
+    3300036: Plane.007
+    3300038: Plane.008
+    3300040: Plane.011
+    3300042: Sphere
+    3300044: Torus.001
+    4300000: Auto Top
+    4300002: Torus.001
+    4300004: Cube.004
+    4300006: Cube.002
+    4300008: Glass
+    4300010: Auto.010
+    4300012: Auto.008
+    4300014: Sphere
+    4300016: Cylinder.012
+    4300018: Cylinder.001
+    4300020: Cylinder
+    4300022: Plane.002
+    4300024: Cylinder.014
+    4300026: Cylinder.015
+    4300028: Cylinder.020
+    4300030: Cylinder.021
+    4300032: Cylinder.026
+    4300034: Cylinder.027
+    4300036: Auto.005
+    4300038: Curve.002
+    4300040: Plane.007
+    4300042: Plane.008
+    4300044: Plane.011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
